@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Train Tracker</string>
+    <string name="google_maps_API_key">AIzaSyCQkz0AwjNbrMvfbiUBJWotwx7jWWTW_FY</string>
+</resources>
